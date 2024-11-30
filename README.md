@@ -105,7 +105,7 @@ ORDER BY e.salario DESC
 LIMIT 1;
 ```
 
-###  Cantidad de empleados con salarios menor a 1,500.000
+### Cantidad de empleados con salarios menor a 1,500.000
 
 ```sql
 SELECT COUNT(*) AS cantidad_empleados
